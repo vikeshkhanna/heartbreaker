@@ -1,0 +1,91 @@
+10
+
+dir
+0
+http://vikeshkhanna.unfuddle.com/svn/vikeshkhanna_backwaters/trunk/caurina/transitions
+http://vikeshkhanna.unfuddle.com/svn/vikeshkhanna_backwaters
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e32dfdd6-fb07-484b-94b9-9a964e596ff4
+
+SpecialPropertyModifier.as
+file
+
+
+
+add
+
+SpecialProperty.as
+file
+
+
+
+add
+
+AuxFunctions.as
+file
+
+
+
+add
+
+Equations.as
+file
+
+
+
+add
+
+Tweener.as
+file
+
+
+
+add
+
+TweenListObj.as
+file
+
+
+
+add
+
+properties
+dir
+
+
+
+add
+
+PropertyInfoObj.as
+file
+
+
+
+add
+
+SpecialPropertySplitter.as
+file
+
+
+
+add
+
